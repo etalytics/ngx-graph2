@@ -3663,15 +3663,6 @@
         "hash": "sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg=="
       }
     },
-    "npm:ci-info": {
-      "type": "npm",
-      "name": "npm:ci-info",
-      "data": {
-        "version": "2.0.0",
-        "packageName": "ci-info",
-        "hash": "sha512-5tK7EtrZ0N+OLFMthtqOj4fI2Jeb88C4CAZPu25LDVUgXJ0A3Js4PMGqrn0JU1W0Mh1/Z8wZzYPxqUrXeBboCQ=="
-      }
-    },
     "npm:circular-dependency-plugin": {
       "type": "npm",
       "name": "npm:circular-dependency-plugin",
@@ -3913,15 +3904,6 @@
         "version": "1.0.1",
         "packageName": "commondir",
         "hash": "sha512-W9pAhw0ja1Edb5GVdIF1mjZw/ASI0AlShXM83UUGe2DVr5TdAPEA1OA8m/g8zWp9x6On7gqufY+FatDbC3MDQg=="
-      }
-    },
-    "npm:compare-versions": {
-      "type": "npm",
-      "name": "npm:compare-versions",
-      "data": {
-        "version": "3.6.0",
-        "packageName": "compare-versions",
-        "hash": "sha512-W6Af2Iw1z4CB7q4uU4hv646dW9GQuBM+YpC0UvUCWSD8w90SJjp+ujJuXaEMtAXBtSqGfMPuFOVn4/+FlaqfBA=="
       }
     },
     "npm:compressible": {
@@ -6372,15 +6354,6 @@
         "hash": "sha512-78/PXT1wlLLDgTzDs7sjq9hzz0vXD+zn+7wypEe4fXQxCmdmqfGsEPQxmiCSQI3ajFV91bVSsvNtrJRiW6nGng=="
       }
     },
-    "npm:find-versions": {
-      "type": "npm",
-      "name": "npm:find-versions",
-      "data": {
-        "version": "4.0.0",
-        "packageName": "find-versions",
-        "hash": "sha512-wgpWy002tA+wgmO27buH/9KzyEOQnKsG/R0yrcjPT9BOFm0zRBVQbZ95nRGXWMywS8YR5knRbpohio0bcJABxQ=="
-      }
-    },
     "npm:flat-cache": {
       "type": "npm",
       "name": "npm:flat-cache",
@@ -7297,15 +7270,6 @@
         "version": "1.0.1",
         "packageName": "humanize-url",
         "hash": "sha512-RtgTzXCPVb/te+e82NDhAc5paj+DuKSratIGAr+v+HZK24eAQ8LMoBGYoL7N/O+9iEc33AKHg45dOMKw3DNldQ=="
-      }
-    },
-    "npm:husky": {
-      "type": "npm",
-      "name": "npm:husky",
-      "data": {
-        "version": "4.3.8",
-        "packageName": "husky",
-        "hash": "sha512-LCqqsB0PzJQ/AlCgfrfzRe3e3+NvmefAdKQhRYpxS4u6clblBoDdzzvHi8fmxKRzvMxPY/1WZWzomPZww0Anow=="
       }
     },
     "npm:iconv-lite": {
@@ -9711,15 +9675,6 @@
         "hash": "sha512-7x81NCL719oNbsq/3mh+hVrAWmFuEYUqrq/Iw3kUzH8ReypT9QQ0BLoJS7/G9k6N81XjW4qHWtjWwe/9eLy1EQ=="
       }
     },
-    "npm:opencollective-postinstall": {
-      "type": "npm",
-      "name": "npm:opencollective-postinstall",
-      "data": {
-        "version": "2.0.3",
-        "packageName": "opencollective-postinstall",
-        "hash": "sha512-8AV/sCtuzUeTo8gQK5qDZzARrulB3egtLzFgteqB2tcT4Mw7B8Kt7JcDHmltjz6FOAHsvTevk70gZEbhM4ZS9Q=="
-      }
-    },
     "npm:optionator": {
       "type": "npm",
       "name": "npm:optionator",
@@ -10017,18 +9972,18 @@
         "hash": "sha512-5DFkuoqlv1uYQKxy8omFBeJPQcdoE07Kv2sferDCrAq1ohOU+MSDswDIbnx3YAM60qIOnYa53wBhXW0EbMonrQ=="
       }
     },
-    "npm:path-type@3.0.0": {
+    "npm:path-type": {
       "type": "npm",
-      "name": "npm:path-type@3.0.0",
+      "name": "npm:path-type",
       "data": {
         "version": "3.0.0",
         "packageName": "path-type",
         "hash": "sha512-T2ZUsdZFHgA3u4e5PfPbjd7HDDpxPnQb5jN0SrDsjNSuVXHJqtwTnWqG0B1jZrgmJ/7lj1EmVIByWt1gxGkWvg=="
       }
     },
-    "npm:path-type": {
+    "npm:path-type@4.0.0": {
       "type": "npm",
-      "name": "npm:path-type",
+      "name": "npm:path-type@4.0.0",
       "data": {
         "version": "4.0.0",
         "packageName": "path-type",
@@ -10161,31 +10116,13 @@
         "hash": "sha512-KTW4sjsCD34MHrUbx9eAAbuUSpVj407hQSgk/6Epkg0pbRBmv4a3UX7Sr8wxm9xYqQLnsN4mFOjqGDzHAdgKQg=="
       }
     },
-    "npm:pkg-dir@4.2.0": {
-      "type": "npm",
-      "name": "npm:pkg-dir@4.2.0",
-      "data": {
-        "version": "4.2.0",
-        "packageName": "pkg-dir",
-        "hash": "sha512-HRDzbaKjC+AOWVXxAU/x54COGeIv9eb+6CkDSQoNTt4XyWoIJvuPsXizxu/Fr23EiekbtZwmh1IcIG/l/a10GQ=="
-      }
-    },
     "npm:pkg-dir": {
       "type": "npm",
       "name": "npm:pkg-dir",
       "data": {
-        "version": "5.0.0",
+        "version": "4.2.0",
         "packageName": "pkg-dir",
-        "hash": "sha512-NPE8TDbzl/3YQYY7CSS228s3g2ollTFnc+Qi3tqmqJp9Vg2ovUpixcJEo2HJScN2Ez+kEaal6y70c0ehqJBJeA=="
-      }
-    },
-    "npm:please-upgrade-node": {
-      "type": "npm",
-      "name": "npm:please-upgrade-node",
-      "data": {
-        "version": "3.2.0",
-        "packageName": "please-upgrade-node",
-        "hash": "sha512-gQR3WpIgNIKwBMVLkpMUeR3e1/E1y42bqDQZfql+kDeXd8COYfM8PQA4X6y7a8u9Ua9FHmsrrmirW2vHs45hWg=="
+        "hash": "sha512-HRDzbaKjC+AOWVXxAU/x54COGeIv9eb+6CkDSQoNTt4XyWoIJvuPsXizxu/Fr23EiekbtZwmh1IcIG/l/a10GQ=="
       }
     },
     "npm:portfinder": {
@@ -11619,15 +11556,6 @@
         "hash": "sha512-lkjaiAye+wBZDCBsu5BGi0XiLRxeUlsGod5ZP924CRSEoGuZAw/f7y9RKu28rwTfiHVhdavhB0qH0INV6P1lEA=="
       }
     },
-    "npm:semver-compare": {
-      "type": "npm",
-      "name": "npm:semver-compare",
-      "data": {
-        "version": "1.0.0",
-        "packageName": "semver-compare",
-        "hash": "sha512-YM3/ITh2MJ5MtzaM429anh+x2jiLVjqILF4m4oyQB18W7Ggea7BfqdH/wGMK7dDiMghv/6WG7znWMwUDzJiXow=="
-      }
-    },
     "npm:semver-dsl": {
       "type": "npm",
       "name": "npm:semver-dsl",
@@ -11635,15 +11563,6 @@
         "version": "1.0.1",
         "packageName": "semver-dsl",
         "hash": "sha512-e8BOaTo007E3dMuQQTnPdalbKTABKNS7UxoBIDnwOqRa+QwMrCPjynB8zAlPF6xlqUfdLPPLIJ13hJNmhtq8Ng=="
-      }
-    },
-    "npm:semver-regex": {
-      "type": "npm",
-      "name": "npm:semver-regex",
-      "data": {
-        "version": "3.1.4",
-        "packageName": "semver-regex",
-        "hash": "sha512-6IiqeZNgq01qGf0TId0t3NvKzSvUsjcpdEO3AQNeIjR6A2+ckTnQlDpl4qu1bjRv0RzN3FP9hzFmws3lKqRWkA=="
       }
     },
     "npm:semver@5.7.2": {
@@ -13570,15 +13489,6 @@
         "version": "2.0.1",
         "packageName": "which-module",
         "hash": "sha512-iBdZ57RDvnOR9AGBhML2vFZf7h8vmBjhoaZqODJBFWHVtKkDmKuHai3cx5PgVMrX5YDNp27AofYbAwctSS+vhQ=="
-      }
-    },
-    "npm:which-pm-runs": {
-      "type": "npm",
-      "name": "npm:which-pm-runs",
-      "data": {
-        "version": "1.1.0",
-        "packageName": "which-pm-runs",
-        "hash": "sha512-n1brCuqClxfFfq/Rb0ICg9giSZqCS+pLtccdag6C2HyufBrh3fBOiy9nb6ggRMvWOVH5GrdJskj5iGTZNxd7SA=="
       }
     },
     "npm:which-typed-array": {
@@ -19624,7 +19534,7 @@
     },
     {
       "source": "npm:cosmiconfig",
-      "target": "npm:path-type",
+      "target": "npm:path-type@4.0.0",
       "type": "static"
     },
     {
@@ -20829,7 +20739,7 @@
     },
     {
       "source": "npm:dir-glob",
-      "target": "npm:path-type",
+      "target": "npm:path-type@4.0.0",
       "type": "static"
     },
     {
@@ -22174,7 +22084,7 @@
     },
     {
       "source": "npm:find-cache-dir",
-      "target": "npm:pkg-dir@4.2.0",
+      "target": "npm:pkg-dir",
       "type": "static"
     },
     {
@@ -22195,11 +22105,6 @@
     {
       "source": "npm:find-up",
       "target": "npm:path-exists",
-      "type": "static"
-    },
-    {
-      "source": "npm:find-versions",
-      "target": "npm:semver-regex",
       "type": "static"
     },
     {
@@ -23165,56 +23070,6 @@
     {
       "source": "npm:humanize-url",
       "target": "npm:strip-url-auth",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:chalk",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:ci-info",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:compare-versions",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:cosmiconfig",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:find-versions",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:opencollective-postinstall",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:pkg-dir",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:please-upgrade-node",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:slash",
-      "type": "static"
-    },
-    {
-      "source": "npm:husky",
-      "target": "npm:which-pm-runs",
       "type": "static"
     },
     {
@@ -25743,7 +25598,7 @@
       "type": "static"
     },
     {
-      "source": "npm:path-type@3.0.0",
+      "source": "npm:path-type",
       "target": "npm:pify@3.0.0",
       "type": "static"
     },
@@ -25788,18 +25643,8 @@
       "type": "static"
     },
     {
-      "source": "npm:pkg-dir@4.2.0",
-      "target": "npm:find-up@4.1.0",
-      "type": "static"
-    },
-    {
       "source": "npm:pkg-dir",
-      "target": "npm:find-up",
-      "type": "static"
-    },
-    {
-      "source": "npm:please-upgrade-node",
-      "target": "npm:semver-compare",
+      "target": "npm:find-up@4.1.0",
       "type": "static"
     },
     {
@@ -27139,7 +26984,7 @@
     },
     {
       "source": "npm:read-pkg",
-      "target": "npm:path-type@3.0.0",
+      "target": "npm:path-type",
       "type": "static"
     },
     {

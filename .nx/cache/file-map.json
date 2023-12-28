@@ -79,7 +79,6 @@
     "eslint": "^8.2.0",
     "eslint-config-prettier": "^8.4.0",
     "eslint-plugin-security": "^1.4.0",
-    "husky": "^4.2.4",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~6.3.14",
@@ -161,19 +160,19 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "5491659464756959289"
+        "hash": "13041822787463728193"
       },
       {
         "file": ".nx/cache/lockfile.hash",
-        "hash": "14823191665476373173"
+        "hash": "3256410290105433028"
       },
       {
         "file": ".nx/cache/parsed-lock-file.json",
-        "hash": "15207781792853388072"
+        "hash": "12814127365610276441"
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "11741417240892950346"
+        "hash": "8203717226312240881"
       },
       {
         "file": ".vscode/settings.json",
@@ -217,11 +216,11 @@
       },
       {
         "file": "package.json",
-        "hash": "8041194091136238811"
+        "hash": "8738675542352874735"
       },
       {
         "file": "pnpm-lock.yaml",
-        "hash": "14242969470918961688"
+        "hash": "18384739815308165948"
       },
       {
         "file": "prettier.config.js",
@@ -401,7 +400,7 @@
       },
       {
         "file": "src/app/app.module.ts",
-        "hash": "3059080772962582466"
+        "hash": "7144476285394494275"
       },
       {
         "file": "src/assets/.gitkeep",
@@ -456,22 +455,6 @@
         "hash": "2215663259619924372"
       },
       {
-        "file": "src/docs/demos/components/ngx-graph-msagl/msaglLayout.ts",
-        "hash": "16887935556058033665"
-      },
-      {
-        "file": "src/docs/demos/components/ngx-graph-msagl/ngx-graph-msagl.component.html",
-        "hash": "8092617272408264757"
-      },
-      {
-        "file": "src/docs/demos/components/ngx-graph-msagl/ngx-graph-msagl.component.scss",
-        "hash": "16258973704865532329"
-      },
-      {
-        "file": "src/docs/demos/components/ngx-graph-msagl/ngx-graph-msagl.component.ts",
-        "hash": "10614801134440683933"
-      },
-      {
         "file": "src/docs/demos/components/ngx-graph-org-tree/customDagreNodesOnly.ts",
         "hash": "13446587158372928328"
       },
@@ -497,7 +480,7 @@
       },
       {
         "file": "src/docs/demos/demo.module.ts",
-        "hash": "12881776680463027956"
+        "hash": "10984925935586966616"
       },
       {
         "file": "src/docs/demos/examples.md",
@@ -545,7 +528,7 @@
       },
       {
         "file": "src/polyfills.ts",
-        "hash": "13495260036668669476"
+        "hash": "15242551731271647414"
       },
       {
         "file": "src/styles.css",
