@@ -8,7 +8,6 @@ import {
   RuntimeContentModule,
   DocsifyPluginsModule
 } from '@swimlane/docspa-core';
-import { DocspaStackblitzModule } from '@swimlane/docspa-stackblitz';
 import { config } from '../docspa.config';
 import { DemoModule } from 'src/docs/demos/demo.module';
 import { NgxGraphModule } from '@swimlane/ngx-graph';
@@ -32,7 +31,6 @@ import { CommonModule } from '@angular/common';
       imports: [NgxGraphModule, DemoModule]
     }),
     DocsifyPluginsModule,
-    DocspaStackblitzModule,
     AppRoutingModule
   ],
   bootstrap: [AppComponent]

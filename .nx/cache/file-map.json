@@ -1,0 +1,580 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.0.3",
+  "deps": {
+    "@angular/animations": "^13.1.2",
+    "@angular/cdk": "^13.1.2",
+    "@angular/common": "^13.1.2",
+    "@angular/compiler": "^13.1.2",
+    "@angular/core": "^13.1.2",
+    "@angular/elements": "^13.1.2",
+    "@angular/forms": "^13.1.2",
+    "@angular/platform-browser": "^13.1.2",
+    "@angular/platform-browser-dynamic": "^13.1.2",
+    "@angular/router": "^13.1.2",
+    "@ngx-loading-bar/core": "^4.2.0",
+    "@ngx-loading-bar/http-client": "^4.2.0",
+    "@stackblitz/sdk": "^1.2.0",
+    "@swimlane/docspa-core": "^8.0.1",
+    "@swimlane/docspa-remark-preset": "^6.0.0",
+    "@types/d3-ease": "^1.0.8",
+    "@types/d3-selection": "^1.4.1",
+    "@types/d3-shape": "^1.3.1",
+    "@types/d3-transition": "^3.0.2",
+    "@ungap/custom-elements": "^0.1.12",
+    "@ungap/global-this": "^0.3.1",
+    "core-js": "^2.5.4",
+    "d3-array": "^3.2.4",
+    "d3-dispatch": "^1.0.5",
+    "d3-ease": "^1.0.5",
+    "d3-force": "^2.0.0",
+    "d3-scale": "^4.0.2",
+    "d3-selection": "^1.3.2",
+    "d3-shape": "^1.2.2",
+    "d3-timer": "^1.0.9",
+    "d3-transition": "^3.0.1",
+    "dagre": "^0.8.5",
+    "deepmerge": "^4.2.2",
+    "json-schema": "^0.4.0",
+    "jsprim": "^1.4.2",
+    "mdast": "^3.0.0",
+    "mermaid": "^8.13.8",
+    "ngx-logger": "^4.0.8",
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "quick-lru": "^4.0.1",
+    "rxjs": "^6.5.4",
+    "smoothscroll-polyfill": "^0.4.3",
+    "throttleit": "^1.0.0",
+    "transformation-matrix": "^1.15.3",
+    "tslib": "^2.3.1",
+    "url-resolve": "^1.0.0",
+    "vfile": "^4.0.0",
+    "vfile-reporter": "^5.1.1",
+    "webcola": "^3.3.8",
+    "zone.js": "~0.11.4",
+    "@angular-devkit/build-angular": "~13.1.3",
+    "@angular-eslint/builder": "13.1.0",
+    "@angular-eslint/eslint-plugin": "13.1.0",
+    "@angular-eslint/eslint-plugin-template": "13.1.0",
+    "@angular-eslint/schematics": "13.1.0",
+    "@angular-eslint/template-parser": "13.1.0",
+    "@angular/cli": "^13.1.3",
+    "@angular/compiler-cli": "^13.1.2",
+    "@angular/language-service": "^13.1.2",
+    "@babel/core": "^7.7.7",
+    "@swimlane/eslint-config": "^2.0.0",
+    "@swimlane/prettier-config-swimlane": "^3.0.2",
+    "@types/jasmine": "~3.6.0",
+    "@types/jasminewd2": "~2.0.3",
+    "@types/mdast": "^3.0.3",
+    "@types/node": "^12.12.34",
+    "@types/unist": "^2.0.2",
+    "@types/vfile": "^4.0.0",
+    "@typescript-eslint/eslint-plugin": "5.11.0",
+    "@typescript-eslint/parser": "5.11.0",
+    "angular-cli-ghpages": "^0.6.2",
+    "codelyzer": "^6.0.0",
+    "cross-env": "^7.0.2",
+    "eslint": "^8.2.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-security": "^1.4.0",
+    "husky": "^4.2.4",
+    "jasmine-core": "~3.6.0",
+    "jasmine-spec-reporter": "~5.0.0",
+    "karma": "~6.3.14",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage-istanbul-reporter": "~3.0.2",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "^1.5.0",
+    "ng-packagr": "^13.1.3",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.0.4",
+    "pretty-quick": "^2.0.1",
+    "protractor": "~7.0.0",
+    "start-server-and-test": "^1.10.11",
+    "ts-node": "^8.8.2",
+    "tslint": "~6.1.0",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-config-swimlane": "^5.0.0",
+    "typescript": "~4.5.4"
+  },
+  "pathMappings": {
+    "@swimlane/ngx-graph": [
+      "projects/swimlane/ngx-graph/src/public_api"
+    ],
+    "@swimlane/ngx-graph/*": [
+      "projects/swimlane/ngx-graph/src/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".angulardoc.json",
+        "hash": "6120036506968321841"
+      },
+      {
+        "file": ".browserslistrc",
+        "hash": "14862329500571251645"
+      },
+      {
+        "file": ".codeclimate.yml",
+        "hash": "6029221004202866950"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "6804688993370021852"
+      },
+      {
+        "file": ".eslintrc.yaml",
+        "hash": "17683369361783607075"
+      },
+      {
+        "file": ".gitattributes",
+        "hash": "13104828718166904910"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/bug_report.md",
+        "hash": "5517267632989057090"
+      },
+      {
+        "file": ".github/ISSUE_TEMPLATE/feature_request.md",
+        "hash": "9945708748771225648"
+      },
+      {
+        "file": ".github/PULL_REQUEST_TEMPLATE.md",
+        "hash": "3744809006415618608"
+      },
+      {
+        "file": ".github/workflows/stale.yml",
+        "hash": "4926964083090315133"
+      },
+      {
+        "file": ".github/workflows/test_and_deploy.yml",
+        "hash": "11665602445062494211"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16930972494872938281"
+      },
+      {
+        "file": ".nx/cache/file-map.json",
+        "hash": "5491659464756959289"
+      },
+      {
+        "file": ".nx/cache/lockfile.hash",
+        "hash": "14823191665476373173"
+      },
+      {
+        "file": ".nx/cache/parsed-lock-file.json",
+        "hash": "15207781792853388072"
+      },
+      {
+        "file": ".nx/cache/project-graph.json",
+        "hash": "11741417240892950346"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "4015022493867323472"
+      },
+      {
+        "file": "CHANGELOG.md",
+        "hash": "68903657559526322"
+      },
+      {
+        "file": "LICENSE",
+        "hash": "15907689330940145781"
+      },
+      {
+        "file": "README.md",
+        "hash": "757230973821893713"
+      },
+      {
+        "file": "angular.json",
+        "hash": "14779691352281712700"
+      },
+      {
+        "file": "e2e/protractor.conf.js",
+        "hash": "16915562749107160348"
+      },
+      {
+        "file": "e2e/src/app.e2e-spec.ts",
+        "hash": "15037769626843017796"
+      },
+      {
+        "file": "e2e/src/app.po.ts",
+        "hash": "3451427156005966925"
+      },
+      {
+        "file": "e2e/tsconfig.e2e.json",
+        "hash": "14135554976302016618"
+      },
+      {
+        "file": "ngx-graph2.code-workspace",
+        "hash": "15938411517016596662"
+      },
+      {
+        "file": "package.json",
+        "hash": "8041194091136238811"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "14242969470918961688"
+      },
+      {
+        "file": "prettier.config.js",
+        "hash": "9269855232296633305"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/karma.conf.js",
+        "hash": "8195833144208830998"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/ng-package.json",
+        "hash": "462768860128849962"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/ng-package.prod.json",
+        "hash": "17260494916835128283"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/package-lock.json",
+        "hash": "665344010272291414"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/package.json",
+        "hash": "6829388955449646530"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/enums/mini-map-position.enum.ts",
+        "hash": "4533973683885698837"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/enums/panning.enum.ts",
+        "hash": "14552799906775285943"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/graph.component.html",
+        "hash": "152359477070517572"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/graph.component.scss",
+        "hash": "15530822612572657896"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/graph.component.ts",
+        "hash": "8870336172535950914"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/graph.module.ts",
+        "hash": "6694700173492661295"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/layouts/colaForceDirected.ts",
+        "hash": "4043769212103987008"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/layouts/customLayouts.ts",
+        "hash": "11847173975562770659"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/layouts/d3ForceDirected.ts",
+        "hash": "7186828763274761841"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/layouts/dagre.ts",
+        "hash": "3845902330052667997"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/layouts/dagreCluster.ts",
+        "hash": "9050694328648516461"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/layouts/dagreNodesOnly.ts",
+        "hash": "8506598412895835275"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/layouts/layout.service.ts",
+        "hash": "5945807704117366484"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/graph/mouse-wheel.directive.ts",
+        "hash": "9387528083855689139"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/models/edge.model.ts",
+        "hash": "9230592235672197408"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/models/graph.model.ts",
+        "hash": "4134841774733623962"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/models/index.ts",
+        "hash": "10372678358778263431"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/models/layout.model.ts",
+        "hash": "17181901841454846408"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/models/node.model.ts",
+        "hash": "7792184064424600909"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/ngx-graph.module.ts",
+        "hash": "5426497581730098755"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/utils/color-sets.ts",
+        "hash": "983643811858635065"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/utils/color.helper.ts",
+        "hash": "22812097887164771"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/utils/id.ts",
+        "hash": "818733943865302594"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/utils/throttle.ts",
+        "hash": "3334025950255574561"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/utils/view-dimensions.helper.ts",
+        "hash": "6696938361977761823"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/lib/utils/visibility-observer.ts",
+        "hash": "3266351630231686430"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/public_api.ts",
+        "hash": "11222528249515378304"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/src/test.ts",
+        "hash": "402845298392929717"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/tsconfig.lib.json",
+        "hash": "11128360345458972880"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/tsconfig.lib.prod.json",
+        "hash": "14596712293513988079"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/tsconfig.spec.json",
+        "hash": "5712649773152277825"
+      },
+      {
+        "file": "projects/swimlane/ngx-graph/tslint.json",
+        "hash": "10135273885058620893"
+      },
+      {
+        "file": "src/.browserslistrc",
+        "hash": "18413334970775375784"
+      },
+      {
+        "file": "src/.nojekyll",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/app-routing.module.ts",
+        "hash": "5254866123741355916"
+      },
+      {
+        "file": "src/app/app.component.css",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/app.component.html",
+        "hash": "17385897758380840601"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "7196957754729692158"
+      },
+      {
+        "file": "src/app/app.module.ts",
+        "hash": "3059080772962582466"
+      },
+      {
+        "file": "src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/docs/.nojekyll",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/docs/_404.md",
+        "hash": "17848704285091261681"
+      },
+      {
+        "file": "src/docs/_navbar.md",
+        "hash": "7655944570620170023"
+      },
+      {
+        "file": "src/docs/_sidebar.md",
+        "hash": "2115803430639437752"
+      },
+      {
+        "file": "src/docs/_sidebar2.md",
+        "hash": "247950231796899805"
+      },
+      {
+        "file": "src/docs/custom-templates.md",
+        "hash": "4391018234033938748"
+      },
+      {
+        "file": "src/docs/data-format.md",
+        "hash": "2414604270663454969"
+      },
+      {
+        "file": "src/docs/demos/base/base.module.ts",
+        "hash": "17804410960844495594"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-custom-curve/customDagreNodesOnly.ts",
+        "hash": "1089998330965376830"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-custom-curve/customStepCurved.ts",
+        "hash": "12736100881270860461"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-custom-curve/ngx-graph-custom-curve.component.html",
+        "hash": "7635004433591582600"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-custom-curve/ngx-graph-custom-curve.component.ts",
+        "hash": "2215663259619924372"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-msagl/msaglLayout.ts",
+        "hash": "16887935556058033665"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-msagl/ngx-graph-msagl.component.html",
+        "hash": "8092617272408264757"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-msagl/ngx-graph-msagl.component.scss",
+        "hash": "16258973704865532329"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-msagl/ngx-graph-msagl.component.ts",
+        "hash": "10614801134440683933"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-org-tree/customDagreNodesOnly.ts",
+        "hash": "13446587158372928328"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-org-tree/ngx-graph-org-tree.component.html",
+        "hash": "16964861111263016280"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-org-tree/ngx-graph-org-tree.component.scss",
+        "hash": "10546017318985775421"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-org-tree/ngx-graph-org-tree.component.spec.ts",
+        "hash": "5658883084910734381"
+      },
+      {
+        "file": "src/docs/demos/components/ngx-graph-org-tree/ngx-graph-org-tree.component.ts",
+        "hash": "16473575092353748421"
+      },
+      {
+        "file": "src/docs/demos/data-format.ts",
+        "hash": "1070869316983779442"
+      },
+      {
+        "file": "src/docs/demos/demo.module.ts",
+        "hash": "12881776680463027956"
+      },
+      {
+        "file": "src/docs/demos/examples.md",
+        "hash": "16228106286876876386"
+      },
+      {
+        "file": "src/docs/demos/interactive-demo.md",
+        "hash": "12625961429008468169"
+      },
+      {
+        "file": "src/docs/layouts.md",
+        "hash": "3585076941928157784"
+      },
+      {
+        "file": "src/docs/main.md",
+        "hash": "13610531353373172013"
+      },
+      {
+        "file": "src/docspa.config.ts",
+        "hash": "2801685402415463101"
+      },
+      {
+        "file": "src/environments/environment.prod.ts",
+        "hash": "4948133862401970609"
+      },
+      {
+        "file": "src/environments/environment.ts",
+        "hash": "5117914025163827188"
+      },
+      {
+        "file": "src/favicon.ico",
+        "hash": "14356862334585494759"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "11999594987067037157"
+      },
+      {
+        "file": "src/karma.conf.js",
+        "hash": "4129411247974546050"
+      },
+      {
+        "file": "src/main.ts",
+        "hash": "11597020446877580216"
+      },
+      {
+        "file": "src/polyfills.ts",
+        "hash": "13495260036668669476"
+      },
+      {
+        "file": "src/styles.css",
+        "hash": "2917954890128038984"
+      },
+      {
+        "file": "src/test.ts",
+        "hash": "15552162705515513231"
+      },
+      {
+        "file": "src/tsconfig.app.json",
+        "hash": "506272192977275775"
+      },
+      {
+        "file": "src/tsconfig.spec.json",
+        "hash": "2632579616533063983"
+      },
+      {
+        "file": "src/tslint.json",
+        "hash": "16144277791940744727"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "6234381342832042314"
+      },
+      {
+        "file": "tslint.json",
+        "hash": "8672557123693411479"
+      }
+    ]
+  }
+}

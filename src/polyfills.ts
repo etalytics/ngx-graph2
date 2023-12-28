@@ -71,4 +71,3 @@ window['global'] = globalThis as any;
 window['process'] = window['process'] || require('process/browser');
 
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-window['Buffer'] = window['Buffer'] || require('buffer').Buffer;

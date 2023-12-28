@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ngx-graph2",
+			"path": "ngx-graph2"
+		}
+	],
+	"settings": {}
+}
